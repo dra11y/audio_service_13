@@ -1,3 +1,9 @@
+## 0.18.10
+
+* Enable fast forward and rewind buttons on Android 13 by merging PR:
+  https://github.com/ryanheise/audio_service/issues/972
+  into https://github.com/ryanheise/audio_service/tree/minor.
+
 ## 0.18.9
 
 * Fix cache bug in AudioServiceFragmentActivity (@Mordtimer).
