@@ -1,6 +1,6 @@
 # audio_service_13
 
-__This is a fork of the `audio_service` plugin__ based on @defsub's pull request and https://github.com/ryanheise/audio_service/tree/minor so that fast forward and rewind buttons can be added in Android 13. The problem with the current plugin is Android SDK 33 API has changed the way the custom actions are added, breaking the existing code. This plugin is based on the pull request: https://github.com/ryanheise/audio_service/pull/973. This fork is hosted at https://github.com/dra11y/audio_service_13.
+__This is a fork of the `audio_service` plugin__ based on @defsub's pull request and https://github.com/ryanheise/audio_service/tree/minor so that fast forward and rewind buttons can be added in Android 13. The problem with the current plugin is Android SDK 33 API has changed the way the custom actions are added, breaking the existing code. This plugin is based on the pull request: https://github.com/ryanheise/audio_service/pull/973. This fork is hosted at https://github.com/dra11y/audio_service_13/tree/android-13.
 
 This plugin wraps around your existing audio code to allow it to run in the background or with the screen turned off, and allows your app to interact with headset buttons, the Android lock screen and notification, iOS control center, wearables and Android Auto. It is suitable for:
 
